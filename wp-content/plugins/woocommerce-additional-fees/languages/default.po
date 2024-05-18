@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Additional Fees\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-05 15:31+0100\n"
+"PO-Revision-Date: 2013-02-05 15:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wp_shop\\wp-content\\plugins"
+"\\woocommerce-additional-fees\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp_shop\\wp-content\\plugins"
+"\\woocommerce-additional-fees\n"
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees.php:334
+msgid "Additional Fee"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees.php:337
+msgid "Fee for "
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees.php:609
+msgid "Fixed amount"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees.php:610
+msgid "add % to total amount"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees.php:611
+msgid "include % in total amount"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees.php:631
+msgid "No Tax required"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees.php:632
+msgid "Standard"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees_admin.php:177
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/woocommerce_additional_fees_admin.php:305
+msgid "Additional Fees"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:74
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:142
+#, php-format
+msgid ""
+"%1$d Error(s) have been found and were reset to original value. Please check "
+"your entries."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:106
+msgid "Activate for this product:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:108
+msgid ""
+"Check to activate additional fees for this product. You must also enable "
+"additional fees for all products in &quot;Basic Settings&quot; in "
+"WooCommerce Settings Page. If unchecked, all gateway settings for this "
+"product are ignored."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:200
+msgid "Basic Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:264
+msgid "Basic settings for WooCommerce additional fees plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:276
+msgid "Delete options on deactivate"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:277
+msgid ""
+"Check to delete options on deactivate. Does not remove any fees in existing "
+"orders."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:289
+msgid "Delete options on uninstall"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:290
+msgid ""
+"Check to delete options on uninstall. Does not remove any fees in existing "
+"orders."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:302
+msgid "Enable additional fees calculation for the shop"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:303
+msgid ""
+"Check to enable additional fees calculation for the shop. If not checked, no "
+"additional fees will be applied. All other settings are ignored."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:315
+msgid "Enable additional fees calculation for products"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:316
+msgid ""
+"Check to enable additional fees calculation for products in the shop. If not "
+"checked, all settings on product level will be ignored."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:343
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:502
+msgid "Additional Fee Settings for Payment Gateway:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:352
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:508
+msgid "Status: "
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:353
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:509
+msgid "Payment gateway is enabled."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:354
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:510
+msgid "Payment gateway is disabled"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:389
+msgid "Enable additional fees on total cart value for this gateway"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:390
+msgid ""
+"Check to enable additional fees to be added based on the total cart value "
+"for this gateway. The fee is applied to overall cart value also including "
+"all fees added on product level."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:398
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:556
+msgid "Output text:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:400
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:558
+msgid "Enter Text for Fee to display as explanation to Fee"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:415
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:577
+msgid "Tax Class:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:418
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:580
+msgid "Select the tax class for the additional fee"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:432
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:597
+msgid "Type of additional fee:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:435
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:600
+msgid "Select the type of value for the additional fee"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:444
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:612
+msgid "Value to add:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:446
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:614
+msgid "Enter the value to add to total amount"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:461
+msgid "Maximum cart value for adding fee:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:463
+msgid ""
+"Ignore additional fee, when total amount exceeds value. Leave 0 for "
+"unlimited amount."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:545
+msgid "Enable additional fees:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:547
+msgid ""
+"Additional fees for this gateway are ONLY calculated, if activated for this "
+"product in &quot;Basic Settings&quot; and for all products in &quot;Basic "
+"Settings&quot; in WooCommerce Settings Page."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:632
+msgid "Maximum value:"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:634
+msgid ""
+"Ignore additional fee, when total amount sold of this product exceeds this "
+"maximum value. Leave 0 for unlimited amount."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:880
+msgid ""
+"You must enter a positive number or Zero as number. For decimal point enter "
+"\".\"."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/classes/panels/wc_panel_admin.php:903
+msgid ""
+"[Value to add] must be less than 90%, when additional fee is included in "
+"total amount (Total amount including fee is 100%)."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:147
+msgid "WooThemes Updates"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:167
+msgid "WooThemes Plugin Updater"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:174
+msgid "WooThemes Username"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:178
+msgid "WooThemes Password"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:187
+msgid "Login"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:238
+msgid "Switch WooThemes Account"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:240
+#, php-format
+msgid ""
+"You are currently logged in as %1$s. To switch to a different WooThemes "
+"account, please fill in the login details below."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:243
+msgid "Update your Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:250
+msgid "Login Error"
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:252
+msgid "The login details supplied are invalid. Please try again."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:262
+msgid "Enable WooThemes Plugin Updates."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:264
+#, php-format
+msgid "Please <a href=\"%1$s\">login</a> to enable automatic plugin updates."
+msgstr ""
+
+#: C:\xampp\htdocs\wp_shop\wp-content\plugins\woocommerce-additional-fees/woo-includes/class-woothemes-plugin-updater.php:277
+msgid "Hide This Message"
+msgstr ""

@@ -1,0 +1,4086 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Badehome v\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-25 00:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: sk_SK\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ default
+#: functions.php:40
+msgid "Telefón v hlavičke"
+msgstr ""
+
+# @ default
+#: functions.php:57
+msgid "Email v hlavičke"
+msgstr ""
+
+# @ default
+#: functions.php:73
+msgid "Adresa v hlavičke"
+msgstr ""
+
+# @ default
+#: functions.php:89
+msgid "Odkaz na adresu v hlavičke"
+msgstr ""
+
+# @ default
+#: functions.php:105
+msgid "Odkaz na obchodné podmienky v hlavičke"
+msgstr ""
+
+# @ default
+#: functions.php:137
+msgid "prihlásiť"
+msgstr ""
+
+# @ default
+#: functions.php:139
+msgid "odhlásiť"
+msgstr ""
+
+# @ default
+#: functions.php:141
+msgid "registrácia"
+msgstr ""
+
+# @ woothemes
+#: header.php:45
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/header.php:43
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:346
+msgid "Navigation"
+msgstr ""
+
+# @ woothemes
+#: header.php:70
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2125
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/header.php:67
+msgid "Home"
+msgstr ""
+
+# @ woocommerce
+#: inc/custom-fields.php:13
+msgid "Novinka"
+msgstr ""
+
+# @ woocommerce
+#: inc/custom-fields.php:23
+msgid "Výpredaj"
+msgstr ""
+
+# @ badehome
+#: inc/custom-fields.php:86
+msgid "Discount!"
+msgstr "Zľava"
+
+# @ badehome
+#: inc/custom-fields.php:89
+msgid "New"
+msgstr "Novinka"
+
+# @ badehome
+#: inc/custom-fields.php:92
+msgid "Sale"
+msgstr "Výpredaj"
+
+# @ badehome
+#: inc/custom-fields.php:96
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s recenzii"
+msgstr[1] "%s recenzia"
+msgstr[2] "%s recenzie"
+
+# @ badehome
+#: inc/template-hooks.php:61
+msgid "Price"
+msgstr "Cena"
+
+# @ badehome
+#: inc/template-hooks.php:64
+msgid "SKU"
+msgstr "Kód"
+
+# @ badehome
+#: inc/template-hooks.php:107
+msgid "Add to cart"
+msgstr "Pridať do košíka"
+
+# @ badehome
+#: inc/template-hooks.php:111
+msgid "Add"
+msgstr "Pridať"
+
+# @ badehome
+#: inc/template-hooks.php:113
+msgid "Info"
+msgstr "Info"
+
+# @ woothemes
+#: includes/featured-slider.php:103
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/featured-slider.php:101
+msgid ""
+"Please add some slides in the WordPress admin to show in the Featured Slider."
+msgstr ""
+
+# @ woothemes
+#: includes/widgets/widget-woo-featured-products.php:12
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-featured-products.php:12
+msgid "Superstore - Featured Products Loop"
+msgstr ""
+
+# @ woothemes
+#: includes/widgets/widget-woo-featured-products.php:101
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-best-selling-products.php:38
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-featured-products.php:102
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-product-categories.php:38
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-recent-products.php:44
+msgid "4"
+msgstr ""
+
+# @ woothemes
+#: includes/widgets/widget-woo-featured-products.php:122
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-featured-products.php:123
+msgid "Number of featured products to display:"
+msgstr ""
+
+# @ woothemes
+#: index.php:114
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/archive.php:72
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/index.php:100
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/page.php:51
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/search.php:48
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/single.php:94
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-blog-grid.php:67
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-blog.php:67
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-business.php:114
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-fullwidth.php:41
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/cart/mini-cart.php:59
+msgid "Subtotal"
+msgstr ""
+
+# @ badeh
+#: woocommerce/cart/mini-cart.php:64
+msgid "Show"
+msgstr "Zobraziť"
+
+# @ badeh
+#: woocommerce/cart/mini-cart.php:65
+msgid "Pay"
+msgstr "Zaplatiť"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+# @ woocommerce
+# @ woothemes
+#: woocommerce/myaccount/form-login.php:65
+#: woocommerce/myaccount/form-login.php:102
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:403
+msgid "Register"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/404.php:16
+msgid "Error 404 - Page not found!"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/404.php:19
+msgid ""
+"The page you trying to reach does not exist, or has been moved. Please use "
+"the menus or the search box to find what you are looking for."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/archive.php:16
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/archive.php:22
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/archive.php:27
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/archive.php:32
+msgid "Archive"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/archive.php:17
+msgid "RSS feed for this section"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/archive.php:37
+msgid "Archive by Author"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/archive.php:42
+msgid "Tag Archives:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/comments.php:20
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/comments.php:32
+msgid "No Responses"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/comments.php:32
+msgid "One Response"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/comments.php:32
+msgid "% Responses"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/comments.php:32
+msgid "to"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/comments.php:48
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/comments.php:65
+msgid "No comments yet."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/content-page.php:39
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/content-page.php:43
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/content-search.php:22
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/content-search.php:35
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/content-search.php:38
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/content.php:29
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/content.php:33
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/content.php:36
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/footer.php:65
+msgid "All Rights Reserved."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/footer.php:73
+msgid "Powered by"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/footer.php:73
+msgid "Designed by"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:74
+msgid "WooThemes Settings Backup"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:74
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:104
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:37
+msgid "Backup Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:106
+msgid "Import Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:108
+msgid ""
+"If you have settings in a backup file on your computer, the WooFramework can "
+"import those into this site. To get started, upload your backup file to "
+"import from below."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:113
+#, php-format
+msgid "Upload File: (Maximum Size: %s)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:116
+msgid "Upload File and Import"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:120
+msgid "Export Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:122
+msgid ""
+"When you click the button below, the WooFramework will create a text file "
+"for you to save to your computer."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:123
+#, php-format
+msgid ""
+"This text file can be used to restore your settings here on \"%s\", or to "
+"easily setup another website with the same settings\"."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:127
+msgid "All Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:128
+msgid "This will contain all of the options listed below."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:130
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2581
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:190
+msgid "Theme Options"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:131
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2587
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:195
+msgid "Framework Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:134
+msgid "Download Export File"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:157
+msgid "Welcome to the WooThemes Backup Manager."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:158
+msgid "Here are a few notes on using this screen."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:159
+msgid ""
+"The backup manager allows you to backup or restore your \"Theme Options\" "
+"and other settings to or from a text file."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:160
+msgid ""
+"To create a backup, simply select the setting type you'd like to backup (or "
+"\"All Settings\") and hit the \"Download Export File\" button."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:161
+msgid ""
+"To restore your settings from a backup, browse your computer for the file "
+"(under the \"Import Settings\" heading) and hit the \"Upload File and Import"
+"\" button. This will restore only the settings that have changed since the "
+"backup."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:163
+msgid ""
+"Please note that only valid backup files generated through the WooThemes "
+"Backup Manager should be imported."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:165
+msgid "Looking for assistance?"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:166
+#, php-format
+msgid ""
+"Please post your query on the %sWooThemes Support Desk%s where we will do "
+"our best to assist you further."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:186
+#, php-format
+msgid ""
+"Please note that this backup manager backs up only your settings and not "
+"your content. To backup your content, please use the %sWordPress Export Tool"
+"%s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:189
+msgid "There was a problem importing your settings. Please Try again."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:191
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:193
+msgid "The import file you've provided is invalid. Please try again."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-backup.php:195
+#, php-format
+msgid "Settings successfully imported. | Return to %sTheme Options%s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-custom-nav.php:29
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! "
+"Use %3$s instead."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-custom-nav.php:29
+msgid "WordPress Menu Management"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-custom.php:68
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:144
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:165
+msgid "General Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-custom.php:390
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1435
+msgid "@"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-custom.php:585
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-custom.php:598
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-custom.php:599
+#, php-format
+msgid "%s Custom Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-express-functions-deprecated.php:198
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-express-functions.php:214
+msgid "You are not allowed to upload files to this site."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-express-functions-deprecated.php:224
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-express-functions.php:240
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:25
+msgid "Admin Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:29
+msgid "Super User (username)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:30
+#, php-format
+msgid ""
+"Enter your %s to hide the Framework Settings and Update Framework from other "
+"users. Can be reset from the %s under %s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:30
+msgid "username"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:30
+msgid "WP options page"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:36
+msgid "Disable Backup Settings Menu Item"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:37
+#, php-format
+msgid "Disable the %s menu item in the theme menu."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:42
+msgid "Theme Update Notification"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:43
+msgid ""
+"This will enable notices on your theme options page that there is an update "
+"available for your theme."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:48
+msgid "WooFramework Update Notification"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:49
+msgid ""
+"This will enable notices on your theme options page that there is an update "
+"available for the WooFramework."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:54
+msgid "Theme Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:58
+msgid "Remove Generator Meta Tags"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:59
+msgid ""
+"This disables the output of generator meta tags in the HEAD section of your "
+"site."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:64
+msgid "Image Placeholder"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:65
+msgid ""
+"Set a default image placeholder for your thumbnails. Use this if you want a "
+"default image to be shown if you haven't added a custom image to your post."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:70
+msgid "Disable Shortcodes Stylesheet"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:71
+msgid ""
+"This disables the output of shortcodes.css in the HEAD section of your site."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:76
+msgid "Output \"Tracking Code\" Option in Header"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:77
+#, php-format
+msgid ""
+"This will output the %s option in your header instead of the footer of your "
+"website."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:77
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:198
+msgid "Tracking Code"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:82
+msgid "Branding"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:86
+msgid "Options panel header"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:87
+msgid "Change the header image for the WooThemes Backend."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:92
+msgid "Options panel icon"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:93
+msgid "Change the icon image for the WordPress backend sidebar."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:98
+msgid "WordPress login logo"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:99
+msgid "Change the logo image for the WordPress login page."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:99
+msgid "Optimal logo size is 274x63px"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:104
+msgid "WordPress login URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:105
+msgid ""
+"Change the URL that the logo image on the WordPress login page links to."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:111
+msgid "WordPress login logo Title"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:112
+msgid "Change the title of the logo image on the WordPress login page."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:137
+msgid "WordPress Toolbar"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:141
+msgid "Disable WordPress Toolbar"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:142
+msgid "Disable the WordPress Toolbar."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:147
+msgid "Enable the WooFramework Toolbar enhancements"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:148
+msgid ""
+"Enable several WooFramework-specific enhancements to the WordPress Toolbar, "
+"such as custom navigation items for \"Theme Options\"."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:157
+msgid "PressTrends"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:161
+msgid "Enable PressTrends Tracking"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:162
+msgid "Enable sending of usage data to PressTrends."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:167
+msgid "What is PressTrends?"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:170
+#, php-format
+msgid ""
+"PressTrends is a simple usage tracker that allows us to see how our "
+"customers are using WooThemes themes - so that we can help improve them for "
+"you. %sNone%s of your personal data is sent to PressTrends.%sFor more "
+"information, please view the PressTrends %s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:170
+msgid "privacy policy"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:180
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:298
+msgid "Options Updated"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:181
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:299
+msgid "Options Reset"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:214
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:335
+msgid "View Changelog"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:215
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:336
+msgid "View Theme Documentation"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:216
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:337
+msgid "Visit Support Desk"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:235
+msgid "Working..."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:236
+msgid "Save All Changes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:257
+msgid "Reset Options"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-framework-settings.php:257
+msgid "Click OK to reset. Any settings will be lost!"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:1042
+msgid "less than a minute ago"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:1044
+msgid "about a minute ago"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:1046
+msgid "minutes ago"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:1050
+msgid "hours ago"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:1054
+msgid "days ago"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:1069
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! "
+"Please upgrade your Theme to the latest version."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:1998
+msgid "&larr; Previous"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:1999
+msgid "Next &rarr;"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2122
+msgid "You are here:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2290
+msgid "g:i a"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2293
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2293
+msgid "i"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2296
+msgid "g a"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2307
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2313
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2318
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2323
+msgid "Y"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2308
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2319
+msgid "F"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2309
+msgid "j"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2314
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2314
+msgid "W"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2330
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2334
+msgid "404 Not Found"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2570
+msgid "WooThemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2590
+msgid "Update Framework"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2594
+#, php-format
+msgid "Child Theme: %s %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2598
+#, php-format
+msgid "Theme: %s %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2601
+#, php-format
+msgid "WooFramework: %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2968
+msgid "Enhance your theme with WooDojo."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2969
+msgid ""
+"WooDojo is a powerful WooThemes features suite for enhancing your website. "
+"Learn more."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2970
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3044
+msgid "Get WooDojo"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2971
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2992
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3045
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3082
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3112
+msgid "Close"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2989
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2991
+msgid "Enable PressTrends"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:2990
+#, php-format
+msgid ""
+"PressTrends is a simple usage tracker that allows us to see how our "
+"customers are using WooThemes themes - so that we can help improve them for "
+"you. %sNone%s of your personal data is sent to PressTrends."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3005
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3007
+msgid "You have taken too long. Please go back and retry."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3042
+msgid ""
+"WooSEO and Sidebar Manager have been removed from version 5.5.0 of the "
+"WooFramework."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3043
+#, php-format
+msgid "For your SEO needs, we encourage you to use the %1$s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3043
+msgid "Get WordPress SEO"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3043
+msgid "WordPress SEO Plugin"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3043
+msgid ""
+"If you need help moving your existing SEO data, WordPress SEO has a built-in "
+"importer to move your data over."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3044
+#, php-format
+msgid ""
+"While the Sidebar Manager has been removed, we encourage you to download "
+"%1$s in our free plugin, %2$s. There is also a Sidebar Manager to "
+"WooSidebars Converter plugin, available through WooDojo."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3044
+msgid "Get WooSidebars"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3044
+msgid "WooSidebars"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3044
+msgid "WooDojo"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3078
+msgid "ATTENTION: Insecure Version of Timthumb Image Resize Script Detected"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3079
+msgid ""
+"A possible old version of the TimThumb script was detected in your theme "
+"folder. Please remove the following files from your theme as a security "
+"precaution"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3111
+#, php-format
+msgid ""
+"You have setup a static front page in %1$sSettings > Reading%2$s.  Please "
+"set it to show \"Your latest posts\" if you want to display the default "
+"homepage in %3$s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-functions.php:3181
+#, php-format
+msgid "Framework %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:360
+msgid "Error"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:367
+msgid "An Error Occured"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:370
+msgid "Something went wrong while trying to load your Theme Options panel."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:371
+#, php-format
+msgid ""
+"Please reload the page, if this error persists, please get in touch with us "
+"through our %1$s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:371
+msgid "Support Desk"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:893
+msgid "Options Saved Successfully"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:897
+msgid "There was an error while saving your options. Please try again."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:901
+msgid "Options Reset Successfully"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1539
+msgid ""
+"You are not able to update this option because you lack the "
+"<code>unfiltered_html</code> capability."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1679
+msgid "New Version"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1680
+msgid "New Feature"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1681
+msgid "Bugfix"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1705
+msgid "Theme update is available"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1705
+msgid "Get the new version"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1705
+#, php-format
+msgid "Update Type: %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1733
+msgid ""
+"ATTENTION: A possible old version of the TimThumb script was detected in "
+"your theme folder. Please remove the following files from your theme as a "
+"security precaution"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1774
+#, php-format
+msgid ""
+"Theme update is available (v%s). %sDownload new version%s (%sSee Changelog%s)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1801
+#, php-format
+msgid ""
+"WooFramework update is available (v%s). %sDownload new version%s (%sSee "
+"Changelog%s)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-interface.php:1849
+#, php-format
+msgid ""
+"An important WooFramework update is available (v%s). %sDownload new version"
+"%s (%sSee Changelog%s)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-medialibrary-uploader.php:51
+msgid "WooFramework Internal Container"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-medialibrary-uploader.php:155
+msgid "Upload"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-medialibrary-uploader.php:181
+msgid "View File"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-medialibrary-uploader.php:316
+msgid "Gallery"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-medialibrary-uploader.php:316
+msgid "Previously Uploaded"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-medialibrary-uploader.php:333
+msgid "Use this Image"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-medialibrary-uploader.php:334
+#, php-format
+msgid "Use as %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:215
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:52
+msgid "Customize the Shortcode"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:230
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:67
+msgid "Ninja Trouble"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:233
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:70
+#, php-format
+msgid ""
+"Your version of the WooFramework (%s) does not yet support shortcodes. "
+"Shortcodes were introduced with version %s of the framework."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:235
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:249
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:72
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:86
+msgid "What to do now?"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:237
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:74
+msgid ""
+"Upgrading your theme, or rather the WooFramework portion of it, will do the "
+"trick."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:239
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:76
+#, php-format
+msgid ""
+"The framework is a collection of functionality that all WooThemes have in "
+"common. In most cases you can update the framework even if you have modified "
+"your theme, because the framework resides in a separate location (under %s)."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:241
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:78
+#, php-format
+msgid ""
+"There's a tutorial on how to do this on WooThemes.com: %sHow to upgradeyour "
+"theme%s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:243
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:80
+msgid ""
+"<strong>Remember:</strong> Every Ninja has a backup plan. Safe or not, "
+"always backup your theme before you update it or make changes to it."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:247
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:84
+msgid ""
+"Looks like your active theme is not from WooThemes. The shortcode generator "
+"only works with themes from WooThemes."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcode-generator.php:251
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/js/shortcode-generator/dialog.php:88
+msgid ""
+"Pick a fight: (1) If you already have a theme from WooThemes, install and "
+"activate it or (2) if you don't yet have one of the awesome WooThemes head "
+"over to the <a href=\"http://www.woothemes.com/themes/\" target=\"_blank\" "
+"title=\"WooThemes Gallery\">WooThemes Gallery</a> and get one."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:332
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> since version %2$s of the WooFramework! "
+"Please upgrade your WordPress to the latest version to use the latest "
+"functionality."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:441
+msgid "Tweet"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:857
+msgid "Hide the Content"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:858
+msgid "Show the Content"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:865
+msgid "Read More"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:866
+msgid "Read Less"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:973
+msgid "Message via the contact form"
+msgstr "Správa z kontaktného formulára"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:974
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:231
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:240
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:200
+msgid "Submit"
+msgstr "Odoslať"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1263
+msgid "Please enter your name"
+msgstr "Prosím zadajte Vaše meno"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1264
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr "Prosím zadajte Vašu emailovú adresu (a skontrolujte, čí je správna)"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1265
+msgid "Please enter your message"
+msgstr "Prosím zadajte správu"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1330
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1336
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:62
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:68
+msgid "From: "
+msgstr "Od:"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1330
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1336
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:62
+msgid "Reply-To: "
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1355
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:126
+msgid "Your email was successfully sent."
+msgstr "Vaša správa bola úspešne odoslaná"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1361
+msgid "There were one or more errors while submitting the form."
+msgstr "Pri odosielaní nastala chyba."
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1366
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:171
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+# @ woothemes
+# @ default
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1385
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:321
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:178
+msgid "Name"
+msgstr "Meno"
+
+# @ woothemes
+# @ default
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1394
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:325
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:185
+msgid "Email"
+msgstr "Email"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1403
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:192
+msgid "Message"
+msgstr "Správa"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1521
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:198
+msgid "Send a copy of this email to yourself"
+msgstr "Poslať kópiu na môj email"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1528
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:199
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr "Ak chcete odoslať formulár, toto pole nevypĺňajte"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1813
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1848
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1858
+#, php-format
+msgid "My %s Profile"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:1827
+msgid "Subscribe to our RSS feed"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:2135
+msgid "Follow"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/functions/admin-shortcodes.php:2252
+msgid "Pin It"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/projects/template-recent-projects.php:14
+msgid "Recent Projects"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:51
+msgid "1 review"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:51
+msgid "% reviews"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:141
+msgid "Out of stock"
+msgstr "Nie je na sklade"
+
+# @ woocommerce
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:168
+msgid "Description"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:391
+msgid "Account"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:391
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:399
+msgid "Log In"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:399
+msgid "My Account"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:409
+msgid "Edit Address"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:412
+msgid "Change Password"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:414
+msgid "Logout"
+msgstr ""
+
+# @ default
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:515
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/integrations/woocommerce/woocommerce.php:643
+msgid "View your shopping cart"
+msgstr "Zobraziť košík"
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/sidebar-init.php:10
+msgid "Primary"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/sidebar-init.php:10
+msgid "Default sidebar."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/sidebar-init.php:16
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/sidebar-init.php:16
+#, php-format
+msgid "Widgetized Footer Region %d."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/sidebar-init.php:19
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:521
+msgid "Homepage"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/sidebar-init.php:19
+msgid "Optional widgetized homepage (displays only if widgets are added here)."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-actions.php:523
+msgid "Search..."
+msgstr "Hľadať..."
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-comments.php:21
+msgid "at"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-comments.php:22
+msgid "Direct link to this comment"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-comments.php:23
+msgid "Edit"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:93
+msgid "Primary Menu"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:94
+msgid "Top Menu"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:127
+msgid "Older posts"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:128
+msgid "Newer posts"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:150
+msgid "Leave a Comment"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:152
+msgid " Comments"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:154
+msgid "1 Comment"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:158
+msgid "Comments off."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:186
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:220
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-subscribe.php:37
+msgid "Subscribe"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:188
+msgid "Subscribe to our profiles on the following social networks."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:227
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:239
+msgid "E-mail"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:292
+msgid "Related Posts:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:314
+msgid "Required"
+msgstr ""
+
+# @ default
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:329
+msgid "Website"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:349
+msgid "Submit Comment"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:350
+msgid "Click here to cancel reply."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:601
+msgctxt "post type general name"
+msgid "Slides"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:602
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:603
+msgctxt "slide"
+msgid "Add New"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:604
+msgid "Add New Slide"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:605
+msgid "Edit Slide"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:606
+msgid "New Slide"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:607
+msgid "View Slide"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:608
+msgid "Search Slides"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:609
+msgid "No slides found"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:610
+msgid "No slides found in Trash"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:611
+msgid "Parent slide:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:632
+msgctxt "taxonomy general name"
+msgid "Slide Groups"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:633
+msgctxt "taxonomy singular name"
+msgid "Slide Groups"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:634
+msgid "Search Slide Groups"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:635
+msgid "All Slide Groups"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:636
+msgid "Parent Slide Group"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:637
+msgid "Parent Slide Group:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:638
+msgid "Edit Slide Group"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:639
+msgid "Update Slide Group"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:640
+msgid "Add New Slide Group"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:641
+msgid "New Slide Group Name"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:642
+msgid "Slide Groups"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:762
+msgid "Loading the next set of products..."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:763
+msgid "All products loaded."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-functions.php:790
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:985
+msgid "Facebook"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:42
+msgid "Select a Slide Group:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:67
+msgid "Select a Category:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:92
+msgid "Select a Post Tag:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:123
+msgid "Select a Page:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:148
+msgid "Quick Start"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:151
+msgid "Theme Stylesheet"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:152
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:158
+msgid "Custom Logo"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:159
+msgid "Upload a logo for your theme, or specify an image URL directly."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:164
+msgid "Text Title"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:165
+#, php-format
+msgid ""
+"Enable text-based Site Title and Tagline. Setup title & tagline in %1$s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:171
+msgid "Site Title"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:172
+msgid "Change the site title typography."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:178
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:185
+msgid "Site Description"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:179
+msgid "Enable the site description/tagline under site title."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:186
+msgid "Change the site description typography."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:192
+msgid "Custom Favicon"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:193
+#, php-format
+msgid "Upload a 16px x 16px %1$s that will represent your website's favicon."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:193
+msgid "ico image"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:199
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:204
+msgid "Subscription Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:207
+msgid "RSS URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:208
+msgid "Enter your preferred RSS URL. (Feedburner or other)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:213
+msgid "E-Mail Subscription URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:214
+msgid "Enter your preferred E-mail subscription URL. (Feedburner or other)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:219
+msgid "Display Options"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:222
+msgid "Custom CSS"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:223
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:228
+msgid "Post/Page Comments"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:229
+msgid "Select if you want to enable/disable comments on posts and/or pages."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:233
+msgid "Posts Only"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:233
+msgid "Pages Only"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:233
+msgid "Pages / Posts"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:233
+msgid "None"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:235
+msgid "Post Content"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:236
+msgid "Select if you want to show the full content or the excerpt on posts."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:239
+msgid "The Excerpt"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:239
+msgid "Full Content"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:241
+msgid "Post Author Box"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:242
+#, php-format
+msgid ""
+"This will enable the post author box on the single posts page. Edit "
+"description in %1$s."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:242
+msgid "Profile"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:247
+msgid "Display Breadcrumbs"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:248
+msgid "Display dynamic breadcrumbs on each page of your website."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:253
+msgid "Display Pagination"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:254
+msgid "Display pagination on the blog."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:259
+msgid "Pagination Style"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:260
+msgid "Select the style of pagination you would like to use on the blog."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:263
+msgid "Numbers"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:263
+msgid "Next/Previous"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:267
+msgid "Styling"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:271
+msgid "Background"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:274
+msgid "Body Background Color"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:275
+msgid "Pick a custom color for background color of the theme e.g. #697e09"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:280
+msgid "Body background image"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:281
+msgid "Upload an image for the theme's background"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:286
+msgid "Background image repeat"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:287
+msgid "Select how you would like to repeat the background-image"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:293
+msgid "Background image position"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:294
+msgid "Select how you would like to position the background"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:300
+msgid "Background Attachment"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:301
+msgid ""
+"Select whether the background should be fixed or move when the user scrolls"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:307
+msgid "Links"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:310
+msgid "Link Color"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:311
+msgid "Pick a custom color for links or add a hex color code e.g. #697e09"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:316
+msgid "Link Hover Color"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:317
+msgid ""
+"Pick a custom color for links hover or add a hex color code e.g. #697e09"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:322
+msgid "Button Color"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:323
+msgid "Pick a custom color for buttons or add a hex color code e.g. #697e09"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:330
+msgid "Typography"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:334
+msgid "Enable Custom Typography"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:335
+msgid ""
+"Enable the use of custom typography for your site. Custom styling will be "
+"output in your sites HEAD."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:340
+msgid "General Typography"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:341
+msgid "Change the general font."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:347
+msgid "Change the navigation font."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:352
+msgid "Page Title"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:353
+msgid "Change the page title."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:358
+msgid "Post Title"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:359
+msgid "Change the post title."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:364
+msgid "Post Meta"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:365
+msgid "Change the post meta."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:370
+msgid "Post Entry"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:371
+msgid "Change the post entry."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:376
+msgid "Widget Titles"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:377
+msgid "Change the widget titles."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:384
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1239
+msgid "Layout"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:389
+msgid "Main Layout"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:390
+msgid "Select which layout you want for your site."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:399
+msgid "Category Exclude - Homepage"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:400
+msgid ""
+"Specify a comma separated list of category IDs or slugs that you'd like to "
+"exclude from your homepage (eg: uncategorized)."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:405
+msgid "Category Exclude - Blog Page Template"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:406
+msgid ""
+"Specify a comma separated list of category IDs or slugs that you'd like to "
+"exclude from your 'Blog' page template (eg: uncategorized)."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:411
+msgid "Business Template"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:414
+msgid "Display WooSlider"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:415
+#, php-format
+msgid "Display a slider above the page content? Requires %sWooSlider%s plugin."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:415
+msgid "Purchase WooSlider from WooThemes.com"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:419
+msgid "Display Features"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:420
+#, php-format
+msgid ""
+"Display Features beneath the page content? Requires %sFeatures%s plugin."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:420
+msgid "Download 'Features by WooThemes' from WordPress.org"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:424
+msgid "Display Testimonials"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:425
+#, php-format
+msgid ""
+"Display testimonials beneath the page content? Requires %sTestimonials%s "
+"plugin."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:425
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:555
+msgid "Download 'Testimonials by WooThemes' from WordPress.org"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:429
+msgid "Display latest blog posts and sidebar"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:430
+msgid ""
+"Display your latest blog posts and primary sidebar beneath the business "
+"template content"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:438
+msgid "Featured Slider"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:442
+msgid "Slider Content"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:445
+msgid "Enable Featured Slider"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:446
+msgid "Enable the featured slider on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:451
+msgid "Number of Slides"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:452
+msgid "Select the number of slides that should appear in the featured slider."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:458
+msgid "Slide Group"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:459
+msgid "Optionally choose to display only slides from a specific slide group."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:465
+msgid "Display Title On Video Slides"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:466
+msgid ""
+"If a slide has a video in the \"Embed Code\" field, display the slide title "
+"& content."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:471
+msgid "Display Order"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:472
+msgid "Select which way you wish to order your slider posts."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:476
+msgid "Newest to oldest"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:476
+msgid "Oldest to newest"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:478
+msgid "Slider Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:481
+msgid "Animation Effect"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:482
+msgid "Select whether the featured slider should slide or fade."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:486
+msgid "Fade"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:486
+msgid "Slide"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:488
+msgid "Next / Previous Navigation"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:489
+msgid "Select to enable next/prev slider for the featured slider."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:494
+msgid "Pagination Controls"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:495
+msgid "Select to enable pagination for the featured slider."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:500
+msgid "Pause On Hover"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:501
+msgid "Hovering over the featured slider will pause it."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:506
+msgid "Pause On Action"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:507
+msgid "Using the featured slider navigation manually will pause it."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:512
+msgid "Auto-Animate Interval"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:513
+#, php-format
+msgid ""
+"The time in %1$sseconds%2$s each slide pauses for, before transitioning to "
+"the next %3$s(set to \"Off\" to disable automatic transitions)."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:517
+msgid "Off"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:525
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:528
+msgid "Homepage Setup"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:531
+#, php-format
+msgid ""
+"You can optionally customise the homepage by adding widgets to the \"Homepage"
+"\" widgetized area on the \"%sWidgets%s\" screen with the \"Woo - Component"
+"\" widget."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:531
+msgid "If you do so, this will override the options below."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:535
+msgid "Enable Product Categories"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:536
+msgid "Display product categories on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:541
+msgid "Enable Featured Products"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:542
+msgid "Display featured products on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:547
+msgid "Enable Recent Products"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:548
+msgid "Display recent products on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:554
+msgid "Enable Testimonials"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:555
+#, php-format
+msgid "Display testimonials on the homepage. Requires %sTestimonials%s plugin."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:560
+msgid "Enable Content Area"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:561
+msgid ""
+"Display the content area with either page content or a list of blog posts."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:567
+msgid "Product Categories"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:570
+msgid "Number of Product Categories"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:571
+msgid "Select the number of product categories to display on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:578
+msgid "Featured Products"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:581
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:598
+msgid "Number of Products"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:582
+msgid "Select the number of featured products to display on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:589
+msgid "Recent Products"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:592
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:619
+msgid "Title"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:593
+msgid "Enter the title to display above the recent products on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:599
+msgid "Select the number of recent products to display on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:608
+msgid "Testimonials"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:611
+msgid "Number of Testimonials"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:612
+msgid "Select the number of testimonials to display on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:620
+msgid "Enter the title to display above the testimonials on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:622
+#, php-format
+msgid "What people think of %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:626
+msgid "Content Area"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:629
+msgid "Content Type"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:630
+msgid ""
+"Determine whether to display the content of a specified page, or your recent "
+"blog posts."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:634
+msgid "Blog Posts"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:634
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:637
+msgid "Page Content"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:638
+msgid ""
+"Select the page to display content from if the homepage content area is "
+"enabled."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:645
+msgid "Number of Blog Posts"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:646
+msgid ""
+"Select the number of posts to display if the content type is set to \"Blog "
+"Posts\"."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:653
+msgid "Posts Category"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:654
+msgid ""
+"Optionally select a category of posts to display if the content type is set "
+"to \"Blog Posts\"."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:661
+msgid "Show Sidebar"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:662
+msgid "Display the sidebar on the homepage."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:670
+msgid "WooCommerce"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:674
+msgid "General"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:677
+msgid "Custom Placeholder"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:678
+msgid ""
+"Upload a custom placeholder to be displayed when there is no product image."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:683
+msgid "Header Cart Link"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:684
+msgid "Display a link to the cart in the main navigation"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:689
+msgid "Header Product Search"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:690
+msgid "Display a product search form in the header"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:695
+msgid "Distraction free checkout"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:696
+msgid ""
+"Hiding distracting elements like the navigation and footer can increase "
+"conversions at the checkout. If you enable this option it is recommended "
+"that your checkout use the Full Width page template to remove the sidebar as "
+"well."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:701
+msgid "Product Archives"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:704
+msgid "Shop archives full width?"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:705
+msgid ""
+"Display the product archive in a full-width single column format? (The "
+"sidebar is removed)."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:710
+msgid "Product columns"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:711
+msgid "Select how many columns of products you want on product archive pages."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:717
+msgid "Products per page"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:718
+msgid "How many products do you want to display on product archive pages?"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:723
+msgid "Enable infinite scroll?"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:724
+msgid ""
+"Automatically loads the next set of products via AJAX when the user scrolls "
+"to the bottom of the page"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:729
+msgid "Product Details"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:732
+msgid "Display related products"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:733
+msgid "Display related products on the product details page"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:739
+msgid "Maximum related products"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:740
+msgid "The maximum number of related products to display."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:747
+msgid "Product details pages full width?"
+msgstr ""
+
+# @ default
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:748
+msgid ""
+"Display the product details in a full-width single column format? (The "
+"sidebar is removed)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:757
+msgid "Dynamic Images"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:761
+msgid "Resizer Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:764
+msgid "Dynamic Image Resizing"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:767
+msgid ""
+"There are two alternative methods of dynamically resizing the thumbnails in "
+"the theme, <strong>WP Post Thumbnail</strong> or <strong>TimThumb - Custom "
+"Settings panel</strong>. We recommend using WP Post Thumbnail option."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:770
+msgid "WP Post Thumbnail"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:771
+msgid ""
+"Use WordPress post thumbnail to assign a post thumbnail. Will enable the "
+"<strong>Featured Image panel</strong> in your post sidebar where you can "
+"assign a post thumbnail."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:777
+msgid "WP Post Thumbnail - Dynamic Image Resizing"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:778
+msgid ""
+"The post thumbnail will be dynamically resized using native WP resize "
+"functionality. <em>(Requires PHP 5.2+)</em>"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:784
+msgid "WP Post Thumbnail - Hard Crop"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:785
+msgid ""
+"The post thumbnail will be cropped to match the target aspect ratio (only "
+"used if \"Dynamic Image Resizing\" is enabled)."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:791
+msgid "TimThumb - Custom Settings Panel"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:792
+#, php-format
+msgid ""
+"This will enable the %1$s (thumb.php) script which dynamically resizes "
+"images added through the <strong>custom settings panel below the post</"
+"strong>. Make sure your themes <em>cache</em> folder is writable. %2$s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:797
+msgid "Automatic Image Thumbnail"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:798
+msgid ""
+"If no thumbnail is specified then the first uploaded image in the post is "
+"used."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:803
+msgid "Thumbnail Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:806
+msgid "Thumbnail Image Dimensions"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:807
+msgid ""
+"Enter an integer value i.e. 250 for the desired size which will be used when "
+"dynamically creating the images."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:814
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:844
+msgid "Width"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:818
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:848
+msgid "Height"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:821
+msgid "Thumbnail Alignment"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:822
+msgid "Select how to align your thumbnails with posts."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:826
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:857
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:84
+msgid "Left"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:826
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:857
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:85
+msgid "Right"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:826
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:857
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1210
+msgid "Center"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:828
+msgid "Single Post - Show Thumbnail"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:829
+msgid "Show the thumbnail in the single post page."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:835
+msgid "Single Post - Thumbnail Dimensions"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:836
+msgid "Enter an integer value i.e. 250 for the image size. Max width is 576."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:851
+msgid "Single Post - Thumbnail Alignment"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:852
+msgid "Select how to align your thumbnail with single posts."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:859
+msgid "Add thumbnail to RSS feed"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:860
+msgid ""
+"Add the the image uploaded via your Custom Settings panel to your RSS feed"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:865
+msgid "Enable Lightbox"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:866
+msgid ""
+"Enable the PrettyPhoto lighbox script on images within your website's "
+"content."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:873
+msgid "Footer Customization"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:878
+msgid "Footer Widget Areas"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:879
+msgid "Select how many footer widget areas you want to display."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:891
+msgid "Custom Affiliate Link"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:892
+msgid "Add an affiliate link to the WooThemes logo in the footer of the theme."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:897
+msgid "Enable Custom Footer (Left)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:898
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:910
+msgid "Activate to add the custom text below to the theme footer."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:903
+msgid "Custom Text (Left)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:904
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:916
+msgid "Custom HTML and Text that will appear in the footer of your theme."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:909
+msgid "Enable Custom Footer (Right)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:915
+msgid "Custom Text (Right)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:923
+msgid "Subscribe & Connect"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:927
+msgid "Setup"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:930
+msgid "Enable Subscribe & Connect - Single Post"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:931
+#, php-format
+msgid ""
+"Enable the subscribe & connect area on single posts. You can also add this "
+"as a %1$s in your sidebar."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:936
+msgid "Subscribe Title"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:937
+msgid "Enter the title to show in your subscribe & connect area."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:942
+msgid "Text"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:943
+msgid "Change the default text in this area."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:948
+msgid "Enable Related Posts"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:949
+msgid ""
+"Enable related posts in the subscribe area. Uses posts with the same "
+"<strong>tags</strong> to find related posts. Note: Will not show in the "
+"Subscribe widget."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:954
+msgid "Subscribe Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:957
+msgid "Subscribe By E-mail ID (Feedburner)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:958
+#, php-format
+msgid "Enter your %1$s for the e-mail subscription form."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:958
+msgid "Feedburner ID"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:963
+msgid "Subscribe By E-mail to MailChimp"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:964
+#, php-format
+msgid ""
+"If you have a MailChimp account you can enter the %1$s to allow your users "
+"to subscribe to a MailChimp List."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:964
+msgid "MailChimp List Subscribe URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:969
+msgid "Connect Settings"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:972
+msgid "Enable RSS"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:973
+msgid "Enable the subscribe and RSS icon."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:978
+msgid "Twitter URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:979
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.twitter.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:979
+msgid "Twitter"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:984
+msgid "Facebook URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:985
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.facebook.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:990
+msgid "YouTube URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:991
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.youtube.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:991
+msgid "YouTube"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:996
+msgid "Flickr URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:997
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.flickr.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:997
+msgid "Flickr"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1002
+msgid "LinkedIn URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1003
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.linkedin.com/in/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1003
+msgid "LinkedIn"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1008
+msgid "Delicious URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1009
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.delicious.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1009
+msgid "Delicious"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1014
+msgid "Google+ URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1015
+#, php-format
+msgid "Enter your %1$s URL e.g. https://plus.google.com/104560124403688998123/"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1015
+msgid "Google+"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1020
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1021
+msgid "Dribbble"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1021
+#, php-format
+msgid "Enter your %1$s URL e.g. http://dribbble.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1026
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1027
+msgid "Instagram"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1027
+#, php-format
+msgid "Enter your %1$s URL e.g. http://instagram.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1032
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1033
+msgid "Vimeo"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1033
+#, php-format
+msgid "Enter your %1$s URL e.g. http://vimeo.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1038
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1039
+msgid "Pinterest"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1039
+#, php-format
+msgid "Enter your %1$s URL e.g. http://pinterest.com/woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1046
+msgid "Advertising"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1050
+msgid "Top Ad (468x60px)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1053
+msgid "Enable Ad"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1054
+msgid "Enable the ad space"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1059
+msgid "Adsense code"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1060
+msgid "Enter your adsense code (or other ad network code) here."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1065
+msgid "Image Location"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1066
+msgid "Enter the URL to the banner ad image location."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1071
+msgid "Destination URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1072
+msgid "Enter the URL where this banner ad points to."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1079
+msgid "Contact Page"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1083
+msgid "Contact Information"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1086
+msgid "Enable Contact Information Panel"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1087
+msgid "Enable the contact informal panel"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1093
+msgid "Location Name"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1094
+msgid "Enter the location name. Example: London Office"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1100
+msgid "Location Address"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1101
+msgid "Enter your company's address"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1107
+msgid "Telephone"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1108
+msgid "Enter your telephone number"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1114
+msgid "Fax"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1115
+msgid "Enter your fax number"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1121
+msgid "Contact Form E-Mail"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1122
+msgid "Enter your E-mail address to use on the 'Contact Form' page Template."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1127
+msgid "Your Twitter username"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1128
+msgid "Enter your Twitter username. Example: woothemes"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1133
+msgid "Enable Subscribe and Connect"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1134
+msgid ""
+"Enable the subscribe and connect functionality on the contact page template"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1139
+msgid "Maps"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1142
+msgid "Contact Form Google Maps Coordinates"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1143
+#, php-format
+msgid ""
+"Enter your Google Map coordinates to display a map on the Contact Form page "
+"template and a link to it on the Contact Us widget. You can get these "
+"details from %1$s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1143
+msgid "Google Maps"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1148
+msgid "Disable Mousescroll"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1149
+msgid ""
+"Turn off the mouse scroll action for all the Google Maps on the site. This "
+"could improve usability on your site."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1154
+msgid "Map Height"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1155
+msgid "Height in pixels for the maps displayed on Single.php pages."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1160
+msgid "Default Map Zoom Level"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1161
+msgid "Set this to adjust the default in the post & page edit backend."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1167
+msgid "Default Map Type"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1168
+msgid "Set this to the default rendered in the post backend."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1172
+msgid "Normal"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1172
+msgid "Satellite"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1172
+msgid "Hybrid"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1172
+msgid "Terrain"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1174
+msgid "Map Callout Text"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1175
+msgid ""
+"Text or HTML that will be output when you click on the map marker for your "
+"location."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1205
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1223
+msgid "Image"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1207
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1211
+msgid "Image Crop Alignment"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1213
+msgid "Select crop alignment for resized image"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1225
+#, php-format
+msgid ""
+"%1$s is disabled. Use the %2$s panel in the sidebar instead, or enable "
+"TimThumb in the options panel."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1225
+msgid "TimThumb"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1225
+msgid "Featured Image"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1231
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1260
+msgid "Embed Code"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1233
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1262
+msgid "Enter the video embed code for your video (YouTube, Vimeo or similar)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1241
+msgid "Select the layout you want on this specific post/page."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1252
+msgid "Slide URL"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/theme-options.php:1254
+#, php-format
+msgid "Enter an URL to link the slider title to a page e.g. %s (optional)"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-adspace.php:12
+msgid "Woo - Adspace Widget"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-adspace.php:58
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-recent-products.php:65
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-subscribe.php:62
+msgid "Title (optional):"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-adspace.php:63
+msgid "Ad Code:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-adspace.php:69
+msgid "Image Url:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-adspace.php:73
+msgid "Link URL:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-adspace.php:77
+msgid "Alt text:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-best-selling-products.php:11
+msgid "Superstore - Best Selling Products Loop"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-best-selling-products.php:21
+msgid "Best Sellers"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-best-selling-products.php:59
+msgid ""
+"Number of best selling products to display (multiples of 4 recommended):"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:11
+msgid "Woo - Blog Author Info"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:66
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-embed.php:96
+msgid "Title:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:70
+msgid "Bio:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:74
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:78
+msgid "Gravatar Size:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:82
+msgid "Gravatar Alignment:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:89
+msgid "Read More Text (optional):"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:93
+msgid "Read More URL (optional):"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:97
+msgid "Visible Pages:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:99
+msgid "All"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:100
+msgid "Home only"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-blogauthor.php:101
+msgid "Single only"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-embed.php:12
+msgid "Woo - Embed/Video"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-embed.php:100
+msgid "Category:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-embed.php:112
+msgid "Tag:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-embed.php:117
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:104
+msgid "Size:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-embed.php:123
+msgid "Limit (optional):"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:11
+msgid "Woo - Flickr"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:21
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:78
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:82
+msgid "Number:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:90
+msgid "Type:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:92
+msgid "User"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:93
+msgid "Group"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:97
+msgid "Sorting:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:99
+msgid "Latest"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:100
+msgid "Random"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:106
+msgid "Square"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:107
+msgid "Medium"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-flickr.php:108
+msgid "Thumbnail"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-product-categories.php:11
+msgid "Superstore - Product Categories Loop"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-product-categories.php:59
+msgid "Number of product categories to display:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-recent-products.php:12
+msgid "Superstore - Recent Products Loop"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-recent-products.php:70
+msgid "Number of recent products to display:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-subscribe.php:11
+msgid "Woo - Subscribe / Connect"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-subscribe.php:66
+msgid "Disable Subscription Form"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-subscribe.php:69
+msgid "Disable Social Icons"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-subscribe.php:72
+msgid "Disable in Posts"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/includes/widgets/widget-woo-subscribe.php:75
+msgid "Disable in Pages"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/page.php:36
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/single.php:58
+msgid "Pages:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/search.php:26
+msgid "Search results:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/single.php:70
+#, php-format
+msgid "About %s"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/single.php:74
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-archives.php:37
+msgid "The Last 30 Posts"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-archives.php:46
+msgid "comments"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-archives.php:57
+msgid "Categories"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-archives.php:64
+msgid "Monthly Archives"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:30
+msgid "You forgot to enter your name."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:38
+msgid "You forgot to enter your email address."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:41
+msgid "You entered an invalid email address."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:49
+msgid "You forgot to enter your comments."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:59
+msgid "Contact Form Submission from "
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:67
+msgid "You emailed "
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:87
+msgid "You forgot to enter your"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:94
+msgid "You entered an invalid"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:104
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:148
+msgid "Tel:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:149
+msgid "Fax:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:150
+msgid "Email:"
+msgstr ""
+
+# @ woothemes
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/template-contact.php:167
+msgid "There was an error submitting the form."
+msgstr ""
+
+# @ woocommerce
+#: /Users/juraj/Projects/bade/wp-content/themes/superstore/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""

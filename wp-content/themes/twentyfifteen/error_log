@@ -1,0 +1,4 @@
+[04-Nov-2015 14:24:49 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/wwwnight/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[05-Nov-2015 18:23:16 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/wwwnight/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[01-Feb-2016 09:53:26 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/wwwnight/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[15-Feb-2016 05:07:01 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/wwwnight/public_html/wp-content/themes/twentyfifteen/404.php on line 10

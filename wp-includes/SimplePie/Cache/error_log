@@ -1,0 +1,4 @@
+[04-Nov-2015 14:09:55 Europe/London] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwnight/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[04-Nov-2015 14:09:55 Europe/London] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/wwwnight/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[04-Nov-2015 14:10:25 Europe/London] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwnight/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[04-Nov-2015 14:10:28 Europe/London] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwnight/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59

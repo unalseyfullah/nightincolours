@@ -1,0 +1,14 @@
+[04-Nov-2015 14:09:59 Europe/London] PHP Fatal error:  Class 'getid3_lib' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[04-Nov-2015 14:09:59 Europe/London] PHP Fatal error:  Class 'getid3_handler' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[04-Nov-2015 14:10:00 Europe/London] PHP Fatal error:  Class 'getid3_lib' not found in /home/wwwnight/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[04-Nov-2015 14:10:00 Europe/London] PHP Fatal error:  Class 'getid3_lib' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[04-Nov-2015 14:10:00 Europe/London] PHP Fatal error:  Class 'getid3_lib' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[04-Nov-2015 14:10:01 Europe/London] PHP Fatal error:  Class 'getid3_handler' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[04-Nov-2015 14:10:01 Europe/London] PHP Fatal error:  Class 'getid3_lib' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[04-Nov-2015 14:10:45 Europe/London] PHP Fatal error:  Class 'getid3_handler' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[04-Nov-2015 14:10:45 Europe/London] PHP Fatal error:  Class 'getid3_handler' not found in /home/wwwnight/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[04-Nov-2015 14:10:45 Europe/London] PHP Fatal error:  Class 'getid3_handler' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[04-Nov-2015 14:10:45 Europe/London] PHP Fatal error:  Class 'getid3_lib' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[04-Nov-2015 14:10:45 Europe/London] PHP Fatal error:  Class 'getid3_handler' not found in /home/wwwnight/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[04-Nov-2015 14:10:46 Europe/London] PHP Fatal error:  Class 'getid3_handler' not found in /home/wwwnight/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[04-Nov-2015 14:10:46 Europe/London] PHP Fatal error:  Class 'getid3_handler' not found in /home/wwwnight/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
